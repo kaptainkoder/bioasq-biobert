@@ -1,3 +1,8 @@
+> ### Why this fork is on my profile ([@kaptainkoder](https://github.com/kaptainkoder))
+> In 2019 I worked on a biomedical question-answering research project at **IIT Kharagpur**, using this BioBERT/BioASQ codebase as the research base — adapting the QA pipeline and evaluating it against internal IIT biomedical databases (which is why that work never appeared as public commits here). The project ended before completion, but it's where I first worked hands-on with transformer-based language models for domain-specific QA — groundwork for the LLM products I build today. Related: my fork of [trec-pm](https://github.com/kaptainkoder/trec-pm) from the same project.
+>
+> Everything below is the original upstream README from [dmis-lab/bioasq-biobert](https://github.com/dmis-lab/bioasq-biobert).
+
 ## Pre-trained Language Model for Biomedical Question Answering <br> _BioBERT at BioASQ 7b -Phase B_
 This repository provides the source code and pre-processed datasets of our participating model for the BioASQ Challenge 7b. We utilized BioBERT, a language representation model for the biomedical domain, with minimum modifications for the challenge. 
 <br>Please refer to our paper [Pre-trained Language Model for Biomedical Question Answering](https://arxiv.org/abs/1909.08229) for more details.
